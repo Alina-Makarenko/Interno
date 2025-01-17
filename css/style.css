@@ -1,0 +1,9 @@
+:root{
+    --title-color:rgba(41, 47, 54, 1);
+    --text-color:rgba(77, 80, 83, 1);
+    --accent-color:rgba(205, 162, 116, 1);
+    --btn-color:rgba(255, 255, 255, 1);
+    --background-color:rgba(244, 240, 236, 1);
+    --shadow-blog:rgba(231, 231, 231, 1);
+    --shadow-color:rgba(229, 229, 229, 1);
+}
