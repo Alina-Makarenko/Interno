@@ -7,3 +7,53 @@
     --shadow-blog:rgba(231, 231, 231, 1);
     --shadow-color:rgba(229, 229, 229, 1);
 }
+/* .container{
+    outline: solid 2px black;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.header-pictures{
+    width: 177px;
+    height: 50px;
+    flex-shrink: 0;
+}
+.header-item{
+    color: var(--title-color);
+font-family: "Jost";
+font-size: 19px;
+font-weight: 400;
+line-height: 157.9;
+letter-spacing: 0.4px;
+}
+.hero{
+    background-image: url(../images/white-sofa.webp);
+    width: 1440px;
+height: 831px;
+flex-shrink: 0;
+}
+.hero-title{
+    color: var(--title-color);
+    font-family: "DM Serif Display";
+    font-size: 80px;
+    font-weight: 400;
+    line-height: 120%;
+    letter-spacing: 0.22px; 
+}
+.hero-text{
+    color: var(--text-color);
+font-family: Jost;
+font-size: 22px;
+font-weight: 400;
+line-height: 150%;
+letter-spacing: 0.22px;
+}
+.hero-button{
+    background-image: url(../images/black-arrow.webp);
+    width: 207px;
+height: 71px;
+flex-shrink: 0;
+border: none;
+} */
