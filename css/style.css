@@ -202,6 +202,20 @@ height: 675px;
 flex-shrink: 0;
 border-radius: 70px;
 background-color: var(--background-color);
+
+}
+.people-subtitle{
+align-items: center;
+}
+.people-list{
+    display: flex;
+
+}
+.people-thinks{
+    width: 354px;
+height: 287px;
+border-radius: 30px;
+background: var(--btn-color);
 }
 .people-subtitle{
     color: var(--title-color);
