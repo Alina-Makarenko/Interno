@@ -8,7 +8,7 @@
     --shadow-color:rgba(229, 229, 229, 1);
 }
 .container{
-    /* outline: solid 2px black; */
+    outline: solid 10px black;
     width: 1200px;
     margin-left: auto;
     margin-right: auto;
