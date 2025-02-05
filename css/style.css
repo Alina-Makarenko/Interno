@@ -309,12 +309,14 @@ letter-spacing: 0.22px;
 margin-top: 25px;
 }
 /* Pictures */
+.pictures{
+    padding-top: 141px;
+    padding-bottom: 99.61px;
+}
 .pictures-list{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    padding-top: 141px;
-    padding-bottom: 99.61px;
 }
 .pictures-item:first-child{
     .pictures-image{
